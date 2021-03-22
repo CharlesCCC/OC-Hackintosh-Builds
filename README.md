@@ -44,7 +44,7 @@
 #### Comet Lake hackintosh (10th Gen)
 | Model Name                       | OC Tutorial |
 | -------------------------------- | ----------- |
-| [Asus Prime Z490-A](https://github.com/yilmazca/intel-i9-10900K-Asus-prime-Z490A-hackintosh ) |             |
+| [Asus Prime Z490-A](https://github.com/CharlesCCC/Asus-Prime-Z490-A-OpenCore-Hackintosh) [link2](https://github.com/yilmazca/intel-i9-10900K-Asus-prime-Z490A-hackintosh) |             |
 | [Gigabyte Z490 Vision G](https://github.com/samuel21119/Intel-i9-10900-Gigabyte-Z490-Vision-G-Hackintosh) | |
 | [Gigabyte Z490 Vision D](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D) | |
 
