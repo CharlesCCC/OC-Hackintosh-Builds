@@ -97,7 +97,7 @@
 | ASRock H310M-HDVP                                            |                                                              |
 | ASRock H310M-ITX/ac                                          |                                                              |
 | ASRock H310M-STX                                             |                                                              |
-| Asus Prime Z390-A                                            |                                                              |
+| [Asus Prime Z390-A](https://github.com/dhckdgjs/ASUS-PRIME-Z390-A-HACKINTOSH-iGPU-with-dGPU-UHD630-RX580 ) |                                                              |
 | Asus Prime Z390M-PLUS                                        |                                                              |
 | Asus ROG STRIX Z390-E GAMING                                 |                                                              |
 | Asus ROG STRIX Z390-I GAMING                                 |                                                              |
