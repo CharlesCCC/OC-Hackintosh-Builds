@@ -47,6 +47,7 @@
 | [Asus Prime Z490-A](https://github.com/CharlesCCC/Asus-Prime-Z490-A-OpenCore-Hackintosh) [link2](https://github.com/yilmazca/intel-i9-10900K-Asus-prime-Z490A-hackintosh) |             |
 | [Gigabyte Z490 Vision G](https://github.com/samuel21119/Intel-i9-10900-Gigabyte-Z490-Vision-G-Hackintosh) | |
 | [Gigabyte Z490 Vision D](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D) | |
+| [Gigabyte Z490M Gaming X](https://www.tonymacx86.com/threads/success-gigabyte-z490m-gaming-x-i9-10850k-rx580-opencore-0-6-6-4k-big-sur-video-editing.310153/) |  |
 
 #### Coffee Lake hackintosh (8th & 9th Gen)
 
